@@ -19,7 +19,7 @@
                 sparkle:shortVersionString="1.1"
                 length="1130814" 
                 type="application/octet-stream" 
-                sparkle:edSignature="t9cv+dHaJUHPc3jgvrcZypJbkQYU3+Dth+EMkPjsX3/BN5//gXdJMNc+SNjh7wYl/X7TddQd8TrdadOPTGGeDA==" />
+                sparkle:edSignature="NlvtRf93TDC/Epwthxs3AUypNYeEsVgXwaMsEF9FDjX1k7NLZOF4jxNuHJtjbR5gaCaB4PUqM2hJRZ3KTBIgCw==" />
                 <!-- For sparkle:edSignature: "./bin/sign_update /path/to/YourApp-1.1.zip" -->
         </item>
         
