@@ -8,6 +8,23 @@
 
         <!-- Latest Version -->
         <item>
+            <title>Version 1.2</title>
+            <sparkle:version>20250916</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:releaseNotesLink>https://github.com/ZhemingYin/InputCounterServer/releases/1.2.html</sparkle:releaseNotesLink>
+            <pubDate>Mon, 16 Sep 2025 14:38:00 +0000</pubDate>
+            <enclosure 
+                url="https://github.com/ZhemingYin/InputCounterServer/downloads/InputCounter-1.2.zip" 
+                sparkle:version="20250916" 
+                sparkle:shortVersionString="1.2"
+                length="3702072" 
+                type="application/octet-stream" 
+                sparkle:edSignature="Jb/fFxGtm7uGsXc7x+hAvt2tgMtCGB0Q94thbiJ8QQuDTG0+srKi9HCMiUPv9/DqhxqQkgzaXR2HJmnyak8aCA==" />
+                <!-- For sparkle:edSignature: "./bin/sign_update /path/to/YourApp-1.2.zip" -->
+        </item>
+
+        <!-- Last Version -->
+        <item>
             <title>Version 1.1</title>
             <sparkle:version>20250912</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
@@ -23,7 +40,7 @@
                 <!-- For sparkle:edSignature: "./bin/sign_update /path/to/YourApp-1.1.zip" -->
         </item>
         
-        <!-- Last Version -->
+        <!-- Previous Versions -->
         <item>
             <title>Version 1.0</title>
             <sparkle:version>20250910</sparkle:version>
