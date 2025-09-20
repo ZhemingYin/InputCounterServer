@@ -4,9 +4,26 @@
         <title>InputCounter</title>
         <link>https://github.com/ZhemingYin/InputCounterServer/appcast.xml</link>
         <description>Latest version and update description</description>
-        <language><us-En></language>
+        <language>en-US</language>
 
         <!-- Latest Version -->
+        <item>
+            <title>Version 1.3</title>
+            <sparkle:version>20250920</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <sparkle:releaseNotesLink>https://github.com/ZhemingYin/InputCounterServer/releases/1.3.html</sparkle:releaseNotesLink>
+            <pubDate>Mon, 20 Sep 2025 15:00:00 +0000</pubDate>
+            <enclosure 
+                url="https://github.com/ZhemingYin/InputCounterServer/downloads/InputCounter-1.3.zip" 
+                sparkle:version="20250920" 
+                sparkle:shortVersionString="1.3"
+                length="3748276" 
+                type="application/octet-stream" 
+                sparkle:edSignature="b0cgoTVnOCTwwaS7vaXZNbO5S4qrn/CZSHG3zuKcoiETrZ4oX6KZMAn4z1Z1lp+siBibsuQZ5a5KwrrdKLqDCA==" />
+                <!-- For sparkle:edSignature: "./bin/sign_update /path/to/YourApp-1.3.zip" -->
+        </item>
+
+        <!-- Last Version -->
         <item>
             <title>Version 1.2</title>
             <sparkle:version>20250916</sparkle:version>
@@ -23,7 +40,7 @@
                 <!-- For sparkle:edSignature: "./bin/sign_update /path/to/YourApp-1.2.zip" -->
         </item>
 
-        <!-- Last Version -->
+        <!-- Previous Versions -->
         <item>
             <title>Version 1.1</title>
             <sparkle:version>20250912</sparkle:version>
@@ -39,8 +56,7 @@
                 sparkle:edSignature="x2phr6m/44TGQdANdGnrB3VYd/RJJnHvEJRYXdTME1klvLGOHFAr9Xy7FCiRtkZoKGoufNNjo8hsISmCXW88AA==" />
                 <!-- For sparkle:edSignature: "./bin/sign_update /path/to/YourApp-1.1.zip" -->
         </item>
-        
-        <!-- Previous Versions -->
+
         <item>
             <title>Version 1.0</title>
             <sparkle:version>20250910</sparkle:version>
