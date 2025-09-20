@@ -17,9 +17,9 @@
                 url="https://github.com/ZhemingYin/InputCounterServer/downloads/InputCounter-1.3.zip" 
                 sparkle:version="20250920" 
                 sparkle:shortVersionString="1.3"
-                length="3744794" 
+                length="3746279" 
                 type="application/octet-stream" 
-                sparkle:edSignature="uvD3FGolZ2xlVvTKJw/49lmYLxcpuEwIeU/n9jMBf2ZcrHQktLhneGxcxf+gdJNwvA3jLFn/ybMoJzOtMVZ9DQ==" />
+                sparkle:edSignature="8MdzgOm5jT6ilTp+FNg/pRLyLUkNeKX7T2oHiqD0HNRRQu1PJ2/RYATUVxY7+UMogPyPbIl0gN0I0NXc0JOXDA==" />
                 <!-- For sparkle:edSignature: "./bin/sign_update /path/to/YourApp-1.3.zip" -->
         </item>
 
